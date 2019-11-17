@@ -1,0 +1,6 @@
+.git
+node_modules
+# 这是webstorm产生的一些配置文件
+.idea
+# 这是vscode产生一些跟项目无关的文件
+.vscode
